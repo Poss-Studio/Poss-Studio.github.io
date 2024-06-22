@@ -14,16 +14,10 @@ neovim,高度自定义我还是好好学习vimshell和lua自己在写配置吧�
 我首选vscode,neovim在某些场景下也并不高效，我个人感觉一般般（个人观点vim大佬勿喷）
 Jetbrains家族体验过pycharm,idea,clion,rustrover,感觉还行，但很臃肿，之后我都卸了
 我在linux下学习的语言有Rust,C,C++,Lua,（我没有语言歧视，只是觉得Rust在linux下运行的更好，C++配合cmake还可以，java,python,asm都试过，挺折腾的，用到的图形渲染接口Vulkan,Opengl,Vulkan跟着大佬也没学明白（能力有限），但Vulkan性能确实顶！
-彩蛋：<iframe 
-src="https://www.bilibili.com/video/BV17wVsedEwv/?spm_id_from=333.999.0.0&vd_source=36dcef7152e02daacd8b22d9ba8b5ea2" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+![Alt text](https://roboticoverlords.org/wallpapers/simple.png)
+   视频链接：https://www.bilibili.com/video/BV17wVsedEwv/?spm_id_from=333.999.0.0&vd_source=36dcef7152e02daacd8b22d9ba8b5ea2
+
+
 
 Docker也用过，但是例如winapps这样的占用资源好大
 #### 好吧一个简短的的笔记就到这里吧，Thanks For Readering！！！
