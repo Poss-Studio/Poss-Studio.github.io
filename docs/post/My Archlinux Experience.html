@@ -4,7 +4,7 @@
     <meta content="text/html; charset=utf-8" http-equiv="content-type" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link href="//cdn.staticfile.net/Primer/21.0.7/primer.css" rel="stylesheet" />
+    <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     <link rel="icon" href="https://i1.hdslb.com/bfs/face/00ccb5bb907cd952bf8fe721c2b1f92a87c12731.jpg@150w_150h.svg"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
@@ -113,8 +113,10 @@ Jetbrains家族体验过pycharm,idea,clion,rustrover,感觉还行，但很臃肿
 <p>Docker也用过，但是例如winapps这样的占用资源好大</p>
 <h4>好吧一个简短的的笔记就到这里吧，Thanks For Readering！！！</h4></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
+
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
 <div class="comments" id="comments"></div>
+
 </div>
     <div id="footer">Copyright © <span id="year"></span><a href="https://Poss-Studio.github.io"> Poss's Blog </a>
 <p>
@@ -169,6 +171,8 @@ console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n\n","padding:5p
 <script>
 document.getElementById("pathHome").setAttribute("d",IconList["home"]);
 document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
+
 
 function openComments(){
     cm=document.getElementById("comments");
